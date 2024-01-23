@@ -1,8 +1,7 @@
-# React + Vite
+                             Ecommerce Search Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Displayed 10 products on a page using pagination
+Implemented searchbar for displaying the items which include the search text
+and also implemented the price range which shows the products based on the range
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also implemented the dropdown functionality in which the products displayed on UI based on selected option and to select multiple options use control key.The categories and the price functions are handled to show multiple filters handlers at a time
